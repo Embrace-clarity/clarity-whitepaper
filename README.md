@@ -1,15 +1,15 @@
 # Whitepaper 0.1
 
 ## Summary
-Clarity is an open source and open hardware decentralised communication device that will be build for society, not profit. It will be the first mobile device(an ecosystem of devices in the future) that will support Ethereum Network and IPFS natively. 
+Clarity is an open source and open hardware decentralised communication device that will be built for society, not profit. It will be the first mobile device(an ecosystem of devices in the future) that will support Ethereum Network and IPFS natively.
 
 Clarity will give a platform for dapps that run on the Ethereum Network, and a single NFC enabled wallet. Its operating system Atmosphere OS will be modular, which means that each module will collaborate with other modules to create a consistent and coherent experience. A new era deserves a new platform.
 
 It won’t be just about developers. We have a clear mission of breaking the consumer chain by establishing a fully autonomous Dapp Store which will be maintained by the community.
 
-Clarity will have its own token called AIR, it will be used for rewards Where users will becomes members of communities of different modules where they can be rewarded for their contribution (submitting bugs, helping others, improving the product, reviewing modules, etc.).
+Clarity will have its own token called AIR, it will be used for rewards Where users will become members of communities of different modules where they can be rewarded for their contribution (submitting bugs, helping others, improving the product, reviewing modules, etc.).
 
-Each device will come with a multi-purpose docking station called Air Dock which will serve as an Ethereum Node, charger, home assistant, with an option for a desktop module so people can use Clarity as a workstation.
+Each device will come with a multipurpose docking station called Air Dock which will serve as an Ethereum Node, charger, home assistant, with an option for a desktop module so people can use Clarity as a workstation.
 
 ## Atmosphere OS
 
@@ -28,7 +28,7 @@ Modules are sort of extensions on top of each Layer. Adding extra functionality 
 ### Modules Store
 Users will become members of communities of different modules where they can be rewarded for their contribution such as
 - Submitting bugs and issues to the development team
-- Acting like a support agent
+- Acting as a support agent
 - Improving the product by suggesting features and upvoting (small transactions) when they want a feature built
 - Reviewing modules and making sure they are safe for public use.
 - Helping the community grow through social campaigns and marketing
@@ -61,7 +61,7 @@ The dock will be modular as well and allow extra functionality to be added such 
 
 # Fair distribution of value and full transparency
 
-Business between service providers and suppliers has always been happening under the table. Often deals might involve human expatiation, from the (real)miners to factories that mold the materials, to workers on the assembly line.
+Business between service providers and suppliers has always been happening under the table. Often deals might involve human rights violations, from the (real)miners to factories that mould the materials, to workers on the assembly line.
 
 With the blockchain will be able to trace who produced what and make sure this person is paid fairly every time a Clarity device is sold. The buyer will have the choice to pick a manufacturer based on their reputation.
 
