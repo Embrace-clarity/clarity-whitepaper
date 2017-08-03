@@ -33,6 +33,7 @@ Users will become members of communities of different modules where they can be 
 - Reviewing modules and making sure they are safe for public use.
 - Helping the community grow through social campaigns and marketing
 - Developers can grab the most wanted feature and build it and receive the bounty reward
+
 ### Crowdsale
 Module Store will aim at streamlining the Crowdsale and make it as simple as submitting and app on Apple App Store or campaign on Kick Starter. Developers and organisations will be able to submit even apps which are in early stage of development to allow the community to build organic value and impact before it’s ready. Even allow concept based modules to form a team and community based on just an idea.
 
@@ -43,7 +44,6 @@ Continues transparency throughout the campaign without having to bounce between 
 - How fair distribution is
 - When the campaign is ending
 - Clear guidelines to participate
-### 
 
 ## Hardware modules
 Hardware engineers will be able to build on top of the platform and sell and distribute through the ambassador’s network.
@@ -58,6 +58,14 @@ The dock will be modular as well and allow extra functionality to be added such 
 - Home Assistant
 - TV
 - Desktop
+
+# Fair distribution of value and full transparency
+
+Business between service providers and suppliers has always been happening under the table. Often deals might involve human expatiation, from the (real)miners to factories that mold the materials, to workers on the assembly line.
+
+With the blockchain will be able to trace who produced what and make sure this person is paid fairly every time a Clarity device is sold. The buyer will have the choice to pick a manufacturer based on their reputation.
+
+The same logic applies to everything, GitHub contributions, designers, marketers, engineers, etc.
 
 # Production & Maintenance
 Open Hardware will enable everyone to participate in the production of the device. From handmade crafted to 3D printed and machine manufactured devices. Unified guidelines will make sure that devices are safe and compatible with the rest of the eco system.
