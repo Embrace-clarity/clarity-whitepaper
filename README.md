@@ -1,10 +1,10 @@
-# Embrace Clarity Whitepaper 0.2
+# Embrace Clarity White paper 0.2
 
 ## Summary
 
 Clarity is an open source and open hardware decentralised communication device that will be built for society, not profit. It will be the first mobile device\(an ecosystem of devices in the future\) that will support Ethereum Network and IPFS natively.
 
-Clarity will give a platform for dapps that run on the Ethereum Network, and a single NFC enabled wallet. Its operating system Atmosphere OS will be modular, which means that each module will collaborate with other modules to create a consistent and coherent experience. A new era deserves a new platform.
+Clarity will give a platform for Dapps that run on the Ethereum Network, and a single NFC enabled wallet. Its operating system Atmosphere OS will be modular, which means that each module will collaborate with other modules to create a consistent and coherent experience. A new era deserves a new platform.
 
 It won’t be just about developers. We have a clear mission of breaking the consumer chain by establishing a fully autonomous Dapp Store which will be maintained by the community.
 
@@ -14,9 +14,9 @@ Each device will come with a multipurpose docking station called Air Dock which 
 
 ## Atmosphere OS
 
-We’ve been stuck in the app era for a decade since the iPhone came out. Big corporations took advantage of the platforms and began to [trap human within their products](https://www.theguardian.com/politics/2017/feb/04/twitter-accounts-really-are-echo-chambers-study-finds). The core mission of Atmosphere is to bring back clarity in people's lifes. By nateively supporting dat, ethereum, ipfs and other decentralised networks we can avoid the creation of echo chambers and therefor be who we decide to be rather than letting corporations shaping our thoughts and actions.
+We’ve been stuck in the app era for a decade since the iPhone came out. Big corporations took advantage of the platforms and began to [trap human within their products](https://www.theguardian.com/politics/2017/feb/04/twitter-accounts-really-are-echo-chambers-study-finds). The core mission of Atmosphere is to bring back clarity in people's lives. By natively supporting dat, Ethereum, IPFS and other decentralised networks we can avoid the creation of echo chambers and therefor be who we decide to be rather than letting corporations shaping our thoughts and actions.
 
-The system will be focused on simplifing the experience for humans by eliminating the need for stanalone apps. Instead Atmosphere will use Layers where developers can build Modules. For exmaple you can go to Maps search for a restorant and decide how you want to interact with that location \(ordering food, getting directions, booking a ticket, etc\) without leaving map
+The system will be focused on simplifying the experience for humans by eliminating the need for standalone apps. Instead Atmosphere will use Layers where developers can build Modules. For example you can go to Maps search for a restaurant and decide how you want to interact with that location \(ordering food, getting directions, booking a ticket, etc\) without leaving map
 
 More on the OS specification document.
 
@@ -26,14 +26,14 @@ Users will become members of communities of different modules where they can be 
 
 * Submitting bugs and issues to the development team
 * Acting as a support agent
-* Improving the product by suggesting features and upvoting \(small transactions\) when they want a feature built
+* Improving the product by suggesting features and up-voting \(small transactions\) when they want a feature built
 * Reviewing modules and making sure they are safe for public use.
 * Helping the community grow through social campaigns and marketing
 * Developers can grab the most wanted feature and build it and receive the bounty reward
 
-### Crowdsale
+### Crowd-sale
 
-Module Store will aim at streamlining the Crowdsale and make it as simple as submitting an app on Apple App Store or campaign on Kick Starter. Developers and organisations will be able to submit even apps which are in early stage of development to allow the community to build organic value and impact before the module is ready.
+Module Store will aim at streamlining the Crowd-sale and make it as simple as submitting an app on Apple App Store or campaign on Kick Starter. Developers and organisations will be able to submit even apps which are in early stage of development to allow the community to build organic value and impact before the module is ready.
 
 Full transparency throughout the campaign without having to bounce between Medium, Etherscan and Slack groups. Creators will be able to:
 
@@ -49,7 +49,7 @@ Each piece of hardware will attach seamlessly to the bottom of the device. \(unf
 
 ## Air Dock
 
-Air Dock will act as a charging station, wifi mesh-network router and node for ethereum, ipfs etc. Contributing to the overall decentralisation mission.
+Air Dock will act as a charging station, wifi mesh-network router and node for Ethereum, IPFS etc. Contributing to the overall decentralisation mission.
 
 The dock will be modular as well and allow extra functionality to be added such as
 
@@ -73,4 +73,3 @@ Open Hardware will enable everyone to participate in the production of the devic
 # Distribution & Education and Marketing
 
 All products will be distributed by the community itself. Brand ambassadors, distributors and teachers will be rewarded with tokens.
-
